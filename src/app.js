@@ -16,7 +16,7 @@ app.use(express.static(publicDirectoryPath))
 
 app.get('', (req, res) => {
     res.render('index',{
-        title: 'Cotações',
+        title: 'Cotações da Bolsa',
         author: 'Leandro de Paula'
     })
 })
@@ -82,5 +82,5 @@ app.get('*', (req, res) => {
 
 const port = process.env.PORT || 3000
 app.listen(port, () => {
-    console.log(`server is up on port ${port}`)
+    console.log(`Access http://localhost:${port}/`)
 })
