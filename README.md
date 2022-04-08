@@ -17,7 +17,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🚀 Instalando <cotacoes>
 
-Para instalar o <cotacoes>, siga estas etapas:
+Para instalar,<cotacoes> siga estas etapas:
 
 Linux | macOS | Windons:
 ```
