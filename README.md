@@ -1,6 +1,6 @@
 # Projeto Cotações da Bolsa
-![GitHub repo size](https://img.shields.io/github/repo-sizeleandro-de-paula/cotacoes?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/countleandro-de-paula/cotacoes?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/leandro-de-paula/cotacoes?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/leandro-de-paula/cotacoes?style=for-the-badge)
 
 <img src="https://raw.githubusercontent.com/leandro-de-paula/cotacoes/master/public/img/cotacoes.png" alt="projeto cotações da bolsa">
 
@@ -42,7 +42,8 @@ nodemon
 ```
 
 
-
+---
 By Leandro de Paula
-E-mail: leandrodepaula.ti@gmail.com
+E-mail: [leandrodepaula.ti@gmail.com](mailto:leandrodepaula.ti@gmail.com)
+
 Please find me on [LinkedIn](https://www.linkedin.com/in/leandro-de-paula/) for a more detailed description of my full work experience, education and certification.
