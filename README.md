@@ -11,15 +11,15 @@
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-* Você instale a versão `<node v14.15.5>` ou superior
-* Você tem uma máquina `<Windows / Linux / Mac>`. O projeto foi feito no `<Linux>`, mas pode rodar em qualquer sitema operacional
+- Você instale a versão `<node v14.15.5>` ou superior
+- Você tem uma máquina `<Windows / Linux / Mac>`. O projeto foi feito no `<Linux>`, mas pode rodar em qualquer sistema operacional
 
 
 ## 🚀 Instalando <cotacoes>
 
 Para instalar,<cotacoes> siga estas etapas:
 
-Linux | macOS | Windons:
+Linux | macOS | Windows:
 ```
 npm i
 ```
@@ -43,7 +43,7 @@ nodemon
 
 
 ---
-By Leandro de Paula
+By **Leandro de Paula**
 E-mail: [leandrodepaula.ti@gmail.com](mailto:leandrodepaula.ti@gmail.com)
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/leandro-de-paula/) for a more detailed description of my full work experience, education and certification.
